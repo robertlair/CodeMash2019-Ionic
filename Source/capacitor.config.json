@@ -1,0 +1,6 @@
+{
+  "appId": "com.lifequeststudios.codemash",
+  "appName": "CodeMash Ionic",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
